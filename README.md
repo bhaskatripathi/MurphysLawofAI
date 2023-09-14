@@ -57,4 +57,6 @@ This repository is licensed under the [MIT License](LICENSE).
 
 - Inspired by Murphy's Law and the collective wisdom (and pain) of Machine Learning practitioners everywhere.
 - Special thanks to the ML community for the shared experiences and insights.
+- Inspired by Murphy's laws collection at [Angelo State University's blog](https://www.angelo.edu/faculty/kboudrea/cheap/cheap3_murphy.htm#Computers).
+
 
