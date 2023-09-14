@@ -1,6 +1,6 @@
 # Murphy's Laws for Machine Learning & Neural Networks
 
-In the spirit of "Anything that can go wrong will go wrong", these laws capture the quirks and challenges of working with ML and Neural Networks in the real world.
+In the spirit of "Anything that can go wrong will go wrong", these laws capture the quirks and challenges of working with ML and Neural Networks in the real world. They are derived from the practical problems we face when our models are pushed to production.
 
 ## 📜 The Laws
 
