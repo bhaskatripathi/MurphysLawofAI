@@ -51,7 +51,7 @@ Feel free to submit a PR if you've encountered another "law" in your experience 
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE.txt).
 
 ## 🙏 Acknowledgements
 
